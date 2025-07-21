@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+warnings
+scipy.stats
+statsmodels.formula.ap
+statsmodels.api
+statsmodels.stats.multicomp
+matplotlib.pyplot
+sklearn.linear_model
